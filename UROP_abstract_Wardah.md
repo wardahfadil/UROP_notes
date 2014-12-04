@@ -1,18 +1,6 @@
 ### UROP Abstract
 #### Draft 1
 
-Outline:
-
-First Paragraph:
-- Introduction to the nature of the different layers of the Earth
-- Introduction to what are pressure scales and why they are important
-- How are pressure scales constructed?
-
-Second Paragraph:
-- Objective of research, UnBIASeD Pressure Scale
-- How it is conducted
-- What is the end goal?
-
 ##### Research Title: Developing A Universal Pressure Scale for High Pressure-Temperature   Experiments
 ##### Mentor: Dr. Aaron Wolf
 
